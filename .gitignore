@@ -132,3 +132,6 @@ dmypy.json
 .csv
 .pkl
 .sav
+model/finalized_model.sav
+data/clean_dialect_dataset.csv
+data/full_dialect_dataset.csv
